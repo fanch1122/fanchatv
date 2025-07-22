@@ -1,22 +1,20 @@
 {
-    "dyname": "fanchatv",
-    "dyzuozhe": "1650866717@qq.com",
-    "zhanyuan": [
-        {
-            "name": "泥视频",
-            "searchurl": "https://nivodi.com",
-            "playua": "Mozilla/5.0(Linux;Android12;Redmi K30Pro Build/SKQ1.220303.001;wv)AppleWebKit/537.36(KHTML,like Gecko)Version/4.0Chrome/99.0.4844.88Mobile Safari/537.36",
-            "playUA": "Mozilla/5.0(Linux;Android12;Redmi K30Pro Build/skq1.220303.001;Wv)Applewebkit/537.36(khtml,like gecko)version/4.0chrome/99.0.4844.88MOBILE Safari/537.36",
-            "websearchurl": "https://nivodi.com/index.php/vod/search.html?wd=",
-            "searchname": "//div[@class='hl-item-title hl-text-site hl-lc-2']/a/text()",
-            "searchid": "//div[@class='hl-item-title hl-text-site hl-lc-2']/a/@href",
-            "searchpic": "//div[@class='hl-item-pic']/a/@data-original",
-            "searchstarr": "//p[@class='hl-item-子hl-text-静音hl-lc-2']/text()",
-            "detaillist": "//div[@class='hl-list-wrap']/ul",
-            "detailxl": "//div[@class='hl-plays-from hl-tabs swiper-wrapper clearfix']/a/text()",
-            "detailjs": "//li/a/text()",
-            "detailjsurl": "//li/a/@href"
-        }
-    ]
+	"dyname": "fanchatv",
+	"dyzuozhe": "1650866717@qq.com",
+	"zhanyuan": [{
+		"name": "我|我",
+		"searchurl": "https://www.huanyuxing.com",
+		"playua": "Mozilla/5.0(Linux;Android12;Redmi K30Pro Build/SKQ1.220303.001;wv)AppleWebKit/537.36(KHTML,like Gecko)Version/4.0Chrome/99.0.4844.88Mobile Safari/537.36",
+		"playUA": "Mozilla/5.0(Linux;Android12;Redmi K30Pro Build/skq1.220303.001;Wv)Applewebkit/537.36(khtml,like gecko)version/4.0chrome/99.0.4844.88MOBILE Safari/537.36",
+		"websearchurl": "",
+		"searchname": "",
+		"searchid": "https://www.huanyuxing.com/v/id-#.html",
+		"searchpic": "",
+		"searchstarr": "",
+		"detaillist": "//div[@class='videolist cf']",
+		"detailxl": "//ul[@id='play']/li/text()",
+		"detailjs": "//a/text()",
+		"detailjsurl": "//a/@href"
+	}]
 }
 
