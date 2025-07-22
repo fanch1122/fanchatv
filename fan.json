@@ -1,20 +1,22 @@
 {
 	"dyname": "fanchatv",
 	"dyzuozhe": "1650866717@qq.com",
-	"zhanyuan": [{
-		"name": "我|我",
-		"searchurl": "https://www.huanyuxing.com",
+	"zhanyuan": [
+		{
+		"名称": "字面意思",
+		"searchurl": "http://www.viphktv.com",
 		"playua": "Mozilla/5.0(Linux;Android12;Redmi K30Pro Build/SKQ1.220303.001;wv)AppleWebKit/537.36(KHTML,like Gecko)Version/4.0Chrome/99.0.4844.88Mobile Safari/537.36",
 		"playUA": "Mozilla/5.0(Linux;Android12;Redmi K30Pro Build/skq1.220303.001;Wv)Applewebkit/537.36(khtml,like gecko)version/4.0chrome/99.0.4844.88MOBILE Safari/537.36",
 		"websearchurl": "",
 		"searchname": "",
-		"searchid": "https://www.huanyuxing.com/v/id-#.html",
+		"searchid": "http://www.viphktv.com/vod/detail/id/#.html",
 		"searchpic": "",
 		"searchstarr": "",
-		"detaillist": "//div[@class='videolist cf']",
-		"detailxl": "//ul[@id='play']/li/text()",
-		"detailjs": "//a/text()",
-		"detailjsurl": "//a/@href"
-	}]
+		"detaillist": "//ul[@class='myui-content__list scrollbar sort-list clearfix']",
+		"detailxl": "//div[@class='myui-panel__head bottom-line active clearfix']/h3/text()",
+		"detailjs": "//li/a/text()",
+		"detailjsurl": "//li/a/@href"
+	}
+]
 }
 
