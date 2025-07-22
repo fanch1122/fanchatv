@@ -1,0 +1,117 @@
+{
+	"dyname": "公共订阅",
+	"dyzuozhe": "1119908@qq.com",
+	"apiyuan": [
+	    {
+			"name": "官链|Mac",
+			"searchurl": "http://110.42.33.133:12121/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"detailurl": "http://110.42.33.133:12121/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"paixu": 0
+		},
+		{
+			"name": "官链|备用",
+			"searchurl": "http://103.207.68.148:78/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"detailurl": "http://103.207.68.148:78/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
+		},
+		{
+			"name": "官链|备用2",
+			"searchurl": "https://www.69mu.cn/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"detailurl": "https://www.69mu.cn/api.php/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
+		},
+		{
+			"name": "木耳|资源",
+			"searchurl": "https://xml02.heimuer.xyz/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"detailurl": "https://xml02.heimuer.xyz/api.php/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
+		},
+		{
+			"name": "爱国|zyz",
+			"searchurl": "https://caiji.maotaizy.cc/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0",
+			"detailurl": "https://caiji.maotaizy.cc/api.php/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0"
+		},
+		{
+			"name": "豆瓣|副推荐",
+			"searchurl": "https://caiji.dbzy.tv/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+			"detailurl": "https://caiji.dbzy.tv/api.php/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+		},
+		{
+			"name": "天堂|zyz",
+			"searchurl": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"detailurl": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
+		},
+		{
+			"name": "爪子|zyz",
+			"searchurl": "https://mozhuazy.com/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.123.com/search/spider.12)",
+			"detailurl": "https://mozhuazy.com/api.php/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.sdf.com/search/12.html)"
+		},
+		{
+			"name": "暴风|zyz",
+			"searchurl": "https://iqiyizyapi.com/api.php/provide/vod/?ac=detail&wd=",
+			"searchua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"detailurl": "https://iqiyizyapi.com/api.php/provide/vod/?ac=detail&ids=",
+			"detailua": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
+		}
+	],
+	"zhanyuan": [
+		{
+            "name": "789看片",
+            "searchUrl": "https://www.789kpw.com",
+            "searchUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "playUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+            "websearchurl": "",
+            "searchname": "",
+            "searchid": "https://www.789kpw.com/vod/#.html",
+            "searchpic": "",
+            "searchstarr": "",
+            "detaillist": "//div[@class='stui-pannel_bd col-pd clearfix']",
+            "detailxl": "//h3[@class='title']//text()",
+            "detailjs": "//li/a/text()",
+            "detailjsurl": "//li/a/@href"
+        },
+		{
+			"name": "厂长|推荐",
+			"searchUrl": "https://www.czzymovie.com",
+			"searchUA": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"playUA": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"websearchurl": "https://www.czzymovie.com/daoyongjiekoshibushiy0ubing?q=",
+			"searchname": "//h3[@class='dytit']/a/text()",
+			"searchid": "//h3[@class='dytit']/a/@href",
+			"searchpic": "//div[@class='bt_img mi_ne_kd search_list']//img/@src",
+			"searchstarr": "//p[@class='inzhuy']/text()",
+			"detaillist": "//div[@class='paly_list_btn']",
+			"detailxl": "//div[@class='mi_paly_box']//span/text()",
+			"detailjs": "//a/text()",
+			"detailjsurl": "//a/@href"
+		},
+		{
+			"name": "动漫|巴士",
+			"searchUrl": "https://dm84.tv",
+			"searchUA": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"playUA": "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)",
+			"websearchurl": "https://dm84.tv/s----------.html?wd=",
+			"searchname": "//a[@class='title']/text()",
+			"searchid": "//a[@class='title']/@href",
+			"searchpic": "//ul[@class='v_list']/li/div/a[1]/@data-bg",
+			"searchstarr": "//span[@class='desc']/text()",
+			"detaillist": "//div[@class='tab_content']/ul",
+			"detailxl": "//div[@class='card mb20']/ul[@class='tab_control play_from']/li/text()",
+			"detailjs": "//li/a/text()",
+			"detailjsurl": "//li/a/@href"
+		}
+	]
+}
